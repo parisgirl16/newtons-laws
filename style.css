@@ -1,0 +1,65 @@
+body {
+  text-align: center;
+  background-color: #DADEF5;
+  color: black;
+  font-family: "Arial", sans-serif;
+  margin-bottom: 100px;
+}
+
+.header {
+  padding: 10px;
+  margin: -10px;
+  background: #93C7F5;
+  width: 100%;
+}
+
+.firstLawExample {
+  height: 225px;
+  width: 150px;
+}
+
+.secondLawExample {
+  height: 500px;
+  width: 200px;
+}
+
+.thirdLawExample {
+  height: 200px;
+  width: 450px;
+}
+
+.isaac {
+  display: block;
+  height: 160px;
+  width: 200px;
+  transform: rotate(90deg);
+  -ms-transform: rotate(90deg); /* IE 9 */
+  -webkit-transform: rotate(90deg); /* Safari */
+  padding-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.quiz {
+  text-align: left;
+  margin-left: 50px;
+}
+
+.law1 {
+  border: solid #AB80F0 2px;
+  margin: 25px;
+  padding: 20px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #AB80F0;
+}
