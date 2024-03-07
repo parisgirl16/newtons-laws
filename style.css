@@ -32,7 +32,7 @@ body {
   display: block;
   height: 160px;
   width: 200px;
-  transform: rotate(90deg);
+/*   transform: rotate(90deg); */
   -ms-transform: rotate(90deg); /* IE 9 */
   -webkit-transform: rotate(90deg); /* Safari */
   padding-top: 30px;
